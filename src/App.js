@@ -14,7 +14,7 @@ function App() {
   // const query=localStorage.getItem('query')
   return (
     <>
-    <Router>
+    <Router basename="/Paper_citation_frontend">
       <Navbar/>
       <div>
         <Routes>
